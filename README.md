@@ -3,6 +3,7 @@
 First step towards building an efficient OCR system is to find out the specific text locations. Implemented the YOLO ( You Only Look Once ) algorithm from scratch (no object detection API used) for the specific task of Scene Text Detection in python using keras and tensorflow.
 
 
+
 # Requirements 
 
 ### The commands under are working for Ubuntu for other Linux distribution please find appropriate commands:
