@@ -1,3 +1,12 @@
+# Data
+data
+results1
+test
+model
+
+# VSCode
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
